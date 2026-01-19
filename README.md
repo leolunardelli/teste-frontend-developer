@@ -1,53 +1,74 @@
-# Teste para estágio Frontend e Full-Stack
+# 💼 Teste Frontend Developer - Ellos Design
 
-## Sobre a Ellos Design
+Resolução do desafio técnico para vaga de Frontend Developer na Ellos Design.
 
-A **Ellos Design** é uma agência de marketing e criação de sites localizada em Guarulhos / SP. Somos uma empresa em constante evolução e sempre estamos abertos para pessoas que gostem de tecnologia e queiram trabalhar na área, mas que principalmente queiram aprender e crescer com a nossa empresa.
+> 🔗 Desafio original: [Ellos-Design/teste-frontend-developer](https://github.com/Ellos-Design/teste-frontend-developer)
 
-## Sobre o teste
+## 🎯 Objetivo do Teste
 
-Este é um teste prático que desenvolvemos para a avaliação dos candidatos participantes de nosso processo seletivo para vagas de Frontend ou Full-Stack.
+[Descreva brevemente o que era pedido no teste]
 
-## Tecnologias para o desafio
+Exemplo:
+> Desenvolver uma landing page responsiva conforme layout fornecido, implementando funcionalidades interativas e consumo de API.
 
-Você deve utilizar as seguintes tecnologias para o desenvolvimento do teste:
+## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS
-- JavaScript ou jQuery
-- PHP (Para Full-Stack)
-- MySQL (Para Full-Stack)
+- HTML5 Semântico
+- CSS3 (Flexbox/Grid)
+- JavaScript ES6+
+- [Outras tecnologias que você usou]
 
-## O que nos impressionaria no teste
+## ✅ Requisitos Implementados
 
-- Utilização de um pré-processador para o CSS (De preferência o Sass)
-- Aplicação de animações em CSS (Ex: Animações ao realizar scroll)
-- Ver o teste rodando em live (Bucket estático S3, Heroku, Firebase Hosting, etc)
-- Documentação do projeto (Com instruções para executar)
+- [x] Layout responsivo
+- [x] Consumo de API
+- [x] Formulário com validação
+- [x] Animações e transições
+- [x] Cross-browser compatibility
+- [ ] [Requisito não implementado, se houver]
 
-## O que avaliaremos no seu teste
+## 📸 Preview
 
-- Criatividade
-- Organização do código
-- Performance do código
-- Boas práticas de desenvolvimento
-- Documentação do código
-- Adaptação mobile (layout responsivo)
-- Documentação do projeto (Com instruções para executar)
+![Preview Desktop](./preview-desktop.png)
+![Preview Mobile](./preview-mobile.png)
 
-## Etapas para realização do teste
+## 🔗 Deploy
 
-- Faça um [fork](https://github.com/Ellos-Design/teste-frontend-developer/fork) desse projeto em sua conta do GitHub
-- Realize o desafio proposto
-- Faça um push para seu repositório com o desafio implementado
-- Envie um email para (vagas@ellosdesign.com.br) com a URL do seu projeto avisando que você concluiu o teste
+[Ver solução ao vivo](https://leolunardelli.github.io/teste-frontend-developer)
 
-## O desafio
+## 🛠️ Como rodar
+```bash
+git clone https://github.com/leolunardelli/teste-frontend-developer.git
+cd teste-frontend-developer
+# Abrir index.html no navegador ou usar Live Server
+```
 
-Você deverá desenvolver uma landing page seguindo a estrutura exibida na imagem abaixo. Você pode utilizar os textos e imagens de sua preferência para a criação da página.
+## 💡 Decisões Técnicas
 
-#### Full-Stack
+- **CSS:** Optei por CSS puro ao invés de frameworks para demonstrar conhecimento vanilla
+- **JavaScript:** Modularização do código para melhor manutenibilidade
+- **Performance:** Lazy loading de imagens para otimização
 
-Deixar o formulário da landing page funcional, onde ao preencher as informações e clicar para enviar, o formulário será submetido e os dados deverão ser gravados em um banco de dados (Neste caso será necessário nos enviar o arquivo SQL para podermos implementar o banco para avaliação do teste).
+## 📚 Aprendizados
 
-![Template da página a ser desenvolvida](https://github.com/Ellos-Design/teste-frontend-developer/blob/master/wireframe.png?raw=true)
+- Trabalhar com especificações de design
+- Otimização de performance frontend
+- Boas práticas de código limpo
+- [Outros aprendizados]
+
+## 👤 Autor
+
+**Leonardo Lunardelli**  
+Frontend Developer
+
+- LinkedIn: [leolunardelli](https://www.linkedin.com/in/leolunardelli)
+- GitHub: [@leolunardelli](https://github.com/leolunardelli)
+- Portfolio: [em construção]
+
+## 📝 Licença
+
+MIT
+
+---
+
+⭐ Se este projeto te ajudou de alguma forma, considere dar uma estrela!
